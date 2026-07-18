@@ -1,0 +1,26 @@
+{
+  "name": "aquisition-repo",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node --watch src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/moazamyasintips2002/aquisition-repo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/moazamyasintips2002/aquisition-repo/issues"
+  },
+  "homepage": "https://github.com/moazamyasintips2002/aquisition-repo#readme",
+  "dependencies": {
+    "dotenv": "^17.4.2",
+    "express": "^5.2.1"
+  }
+}
