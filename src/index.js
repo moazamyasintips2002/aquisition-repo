@@ -1,2 +1,2 @@
 import 'dotenv/config';
-import  './Server.js'
+import './Server.js';
